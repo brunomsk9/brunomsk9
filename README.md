@@ -51,3 +51,15 @@
 📆 2019 - 2020\
 📍 **Senac** Asa Sul - DF, Brazil
 
+<details>
+<summary><h2>🥅 Experiência</h2></summary>
+  
+## Experiencia
+
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Cross Mobile Developer**\
+📆 2021 - moment\
+📍 **Xp Inc** - São Paulo/SP, Brazil  
+  
+
