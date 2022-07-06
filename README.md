@@ -36,7 +36,6 @@
   </a>
 </div>
 
-<div>
 <details>
 <summary><h2>📚 Educação</h2></summary>
 
