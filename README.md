@@ -48,7 +48,7 @@
 📍 **Senac** Asa Sul - DF, Brazil
 </details>
 
-<! -- Inicio Experiencia -->
+<!-- Inicio Experiencia -->
 
 <details>
 <summary><h2>🥅 Experiência</h2></summary>
