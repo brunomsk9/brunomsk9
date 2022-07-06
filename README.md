@@ -37,9 +37,8 @@
 </div>
 
 <div>
-  
 <details>
-<summary><h3>📚 Educação</h3></summary>
+<h3><summary>📚 Educação</summary></h3>
 
 
 ## 
