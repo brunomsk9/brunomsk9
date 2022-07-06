@@ -40,9 +40,6 @@
 <details>
 <summary><h2>📚 Educação</h2></summary>
 
-
-## 
-
 - 📖 **Sistemas de Informação**\
 📆 2012 - 2015\
 📍 **Uniceplac - Centro Universitário** Gama - DF, Brazil
@@ -50,7 +47,6 @@
 - 📖 **Pós Graduação em Banco de Dados e Bussines Intelligence com Ênfase em Software Livre**\
 📆 2019 - 2020\
 📍 **Senac** Asa Sul - DF, Brazil
-
 </details>
 
 <details>
