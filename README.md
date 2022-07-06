@@ -54,7 +54,7 @@
 <details>
 <summary><h2>🥅 Experiência</h2></summary>
   
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
 - 👨‍💻 **Data Engineer**\
 📆 2022 - momento\
