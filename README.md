@@ -48,6 +48,8 @@
 📍 **Senac** Asa Sul - DF, Brazil
 </details>
 
+<! -- Inicio Experiencia -->
+
 <details>
 <summary><h2>🥅 Experiência</h2></summary>
   
@@ -56,7 +58,7 @@
 - 👨‍💻 **Data Engineer**\
 📆 2022 - momento\
 📍 **Eleva Educação** - Brazil
-
-</details>  
+</details>
+<! -- Fim Experiencia -->
   
 
