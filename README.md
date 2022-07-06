@@ -53,9 +53,9 @@
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Eleva Educação**\
+- 👨‍💻 **Data Engineer**\
 📆 2022 - momento\
-📍 **Xp Inc** - São Paulo/SP, Brazil
+📍 **Eleva Educação** - Brazil
 
 </details>  
   
