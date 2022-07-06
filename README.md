@@ -36,6 +36,7 @@
   </a>
 </div>
 
+<!-- Inicio Educação -->
 <details>
 <summary><h2>📚 Educação</h2></summary>
 
@@ -47,9 +48,9 @@
 📆 2019 - 2020\
 📍 **Senac** Asa Sul - DF, Brazil
 </details>
+<!-- Fim Educação -->
 
 <!-- Inicio Experiencia -->
-
 <details>
 <summary><h2>🥅 Experiência</h2></summary>
   
