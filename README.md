@@ -37,17 +37,17 @@
 </div>
 
 <div>
-<h2>💻Informações</h2>
-
 <details>
 <summary><h3>📃 Educação</h3></summary>
 
 
 ## 
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
-</details>
-</div>
+- 📖 **Sistemas de Informação**\
+📆 2012 - 2015\
+📍 **Uniceplac - Centro Universitário** Gama - DF, Brazil
+
+- 📖 **Pós Graduação em Banco de Dados e Bussines Intelligence com Ênfase em Software Livre**\
+📆 2019 - 2020\
+📍 **Senac** Asa Sul - DF, Brazil
 
