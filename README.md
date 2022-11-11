@@ -58,7 +58,7 @@
 
 - 👨‍💻 **Data Engineer**\
 📆 2022 - momento\
-📍 **Eleva Educação** - Brazil
+📍 **ConnectDF** - Brazil
 
 
 <img align="right" src="https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white"/>
